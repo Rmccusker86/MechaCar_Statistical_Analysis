@@ -9,6 +9,7 @@ We have been tasking with doing an analytical review to try and show why the new
   * come up with a study to compare the performance to vehicles from other automakers.
   
 ## Results
+<<<<<<< HEAD
 
 ### Linear Regression model to predict the MPG
 ##picture here
@@ -50,3 +51,5 @@ It would be most efficient for use a two-sample t-test.
 #### What data is needed
 We would need to gather an average MPG cost, and yearly upkeep costs for the MechaCar, as well as from similiar vehicles from competitors.
 
+=======
+>>>>>>> 948e25beb33e1d18b1948e884d55fc335e823d02
